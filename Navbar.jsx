@@ -1,5 +1,4 @@
-<img
-  src="/src/assets/steelworks-logo.png"
-  alt="Steelworks Logo"
-  className="h-10 w-auto"
-/>
+<a href="#/">Home</a>
+<a href="#/products">Products</a>
+<a href="#/services">Services</a>
+<a href="#/contact">Contact</a>
